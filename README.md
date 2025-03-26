@@ -21,10 +21,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ## 🏆 주요 프로젝트
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=01star01ek&repo=Topangyo&theme=buefy)](https://github.com/sgdevcamp2022/topangyo)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=01star01ek&repo=another-project&theme=buefy)](https://github.com/01star01ek/another-project)
+[![Topangyo](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2022&repo=topangyo&theme=buefy)](https://github.com/sgdevcamp2022/topangyo)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=01star01ek&repo=Calculator&theme=buefy)](https://github.com/01star01ek/Calculator)
 
 #### 👉 더 많은 프로젝트는 [여기](https://github.com/01star01ek?tab=repositories)에서 확인하세요!
+
 
 ## 🧑‍💻 Contact me
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://01star01ek.tistory.com)](https://01star01ek.tistory.com)
