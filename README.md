@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ## 🏆 주요 프로젝트
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=01star01ek&repo=project-name&theme=buefy)](https://github.com/01star01ek/project-name)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=01star01ek&repo=Topangyo&theme=buefy)](https://github.com/sgdevcamp2022/topangyo)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=01star01ek&repo=another-project&theme=buefy)](https://github.com/01star01ek/another-project)
 
 #### 👉 더 많은 프로젝트는 [여기](https://github.com/01star01ek?tab=repositories)에서 확인하세요!
