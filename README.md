@@ -39,7 +39,5 @@
 
 ![Snake animation](https://github.com/01star01ek/01star01ek/blob/output/github-contribution-grid-snake.svg)
 
-[![Tistory Badge](https://img.shields.io/badge/개발%20블로그-DD0B78?style=flat-square&logo=Tistory&logoColor=white&link=https://01star01ek.tistory.com/)](https://01star01ek.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:01star01ek@gmail.com)](mailto:01star01ek@gmail.com)
 
 💻 열정적인 개발자가 되기 위해 노력하고 있습니다. 감사합니다! 🙏
