@@ -1,7 +1,5 @@
 # 👋 안녕하세요, 저는 01star01ek입니다!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F01star01ek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 🚀 소개
 안녕하세요! 저는 웹 개발과 클라우드 기술에 관심이 많은 개발자입니다.
 혁신적인 프로젝트를 통해 사용자의 경험을 향상시키는 것을 목표로 하고 있습니다.
