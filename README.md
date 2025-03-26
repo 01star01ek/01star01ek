@@ -36,8 +36,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01star01ek&layout=compact&theme=buefy&hide_border=true)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=01star01ek&row=1&column=6&theme=flat&no-frame=true)
-
-![Snake animation](https://github.com/01star01ek/01star01ek/blob/output/github-contribution-grid-snake.svg)
-
-
-💻 열정적인 개발자가 되기 위해 노력하고 있습니다. 감사합니다! 🙏
